@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//4yM\u003d",
+        "filename": "bluetooth/bdroid_buildcfg.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-03-23T17:12:44Z",
+      "side": 1,
+      "message": "s/T/TX/",
+      "revId": "f2ace2b3f213f54d3af059b7455c085d6259de81",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//4yI\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-03-23T17:12:44Z",
+      "side": 1,
+      "message": "Wrong fingerprint, should be kept as it is if hayabusa didn\u0027t get 4.1.2. yet.",
+      "revId": "f2ace2b3f213f54d3af059b7455c085d6259de81",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//4yE\u003d",
+        "filename": "recovery/init.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-03-23T17:12:44Z",
+      "side": 1,
+      "message": "this is handled by vold now.",
+      "revId": "f2ace2b3f213f54d3af059b7455c085d6259de81",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
