@@ -17,6 +17,8 @@
 
 char const*const LCD_BACKLIGHT_FILE		= "/sys/class/leds/lcd-backlight_1/brightness";
 char const*const LCD_BACKLIGHT2_FILE		= "/sys/class/leds/lcd-backlight_2/brightness";
+char const*const LOGO_BACKLIGHT1_FILE			= "/sys/class/leds/logo-backlight_1/brightness";
+char const*const LOGO_BACKLIGHT2_FILE			= "/sys/class/leds/logo-backlight_2/brightness";
 char const*const RED_LED_FILE			= "/sys/class/leds/pwr-red/brightness";
 char const*const GREEN_LED_FILE			= "/sys/class/leds/pwr-green/brightness";
 char const*const BLUE_LED_FILE			= "/sys/class/leds/pwr-blue/brightness";

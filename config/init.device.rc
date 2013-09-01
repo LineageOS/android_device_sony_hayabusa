@@ -5,6 +5,12 @@ on boot
     chown system system /sys/class/leds/lcd-backlight_2/brightness
     chmod 660 /sys/class/leds/lcd-backlight_2/brightness
 
+    # Logo Backlight
+    chown system system /sys/class/leds/logo-backlight_1/brightness
+    chmod 660 /sys/class/leds/logo-backlight_1/brightness
+    chown system system /sys/class/leds/logo-backlight_2/brightness
+    chmod 660 /sys/class/leds/logo-backlight_2/brightness
+
     # LED
     chown system system /sys/class/leds/pwr-red/brightness
     chmod 660 /sys/class/leds/pwr-red/brightness
