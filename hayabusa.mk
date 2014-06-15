@@ -40,6 +40,12 @@ PRODUCT_COPY_FILES += \
         $(LOCAL_PATH)/rootdir/system/etc/sensors.conf:system/etc/sensors.conf \
 	$(LOCAL_PATH)/rootdir/system/etc/sysmon.cfg:system/etc/sysmon.cfg
 	
+# touchscreen and simple remote platform
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/rootdir/system/usr/clearpad.idc:system/usr/clearpad.idc \
+    $(LOCAL_PATH)/rootdir/system/usr/keylayout/simple_remote_appkey.kl:system/usr/keylayout/simple_remote_appkey.kl \
+    $(LOCAL_PATH)/rootdir/system/usr/keylayout/simple_remote.kl:system/usr/keylayout/simple_remote.kl
+
 # Device specific init
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/init.device.rc:root/init.device.rc
