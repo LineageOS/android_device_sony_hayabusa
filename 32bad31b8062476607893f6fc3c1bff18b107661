@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_df2fbdf4",
+        "filename": "hayabusa.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2014-06-25T20:12:45Z",
+      "side": 1,
+      "message": "plz, replace tab with space",
+      "revId": "32bad31b8062476607893f6fc3c1bff18b107661",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_3f351946",
+        "filename": "hayabusa.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2014-06-25T20:12:45Z",
+      "side": 1,
+      "message": "and remove this one",
+      "revId": "32bad31b8062476607893f6fc3c1bff18b107661",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

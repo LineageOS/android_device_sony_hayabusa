@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_1f3ad536",
+        "filename": "recovery.fstab",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2014-06-25T20:12:45Z",
+      "side": 0,
+      "message": "dont use tab :)",
+      "revId": "abb9e889caa889d9fb1e9d4d21a0a06f6a019137",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
