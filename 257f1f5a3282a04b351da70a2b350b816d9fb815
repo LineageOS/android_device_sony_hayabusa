@@ -22,6 +22,30 @@
       "revId": "257f1f5a3282a04b351da70a2b350b816d9fb815",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a1a2d67_b34d38c7",
+        "filename": "lineage.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2017-01-01T11:52:16Z",
+      "side": 1,
+      "message": "Didn\u0027t want that commit to do anything else than rename the device product \u0026 dependencies, a newer one will change the sources later.",
+      "parentUuid": "3a1d315d_fd3edb28",
+      "range": {
+        "startLine": 18,
+        "startChar": 17,
+        "endLine": 18,
+        "endChar": 19
+      },
+      "revId": "257f1f5a3282a04b351da70a2b350b816d9fb815",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
